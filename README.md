@@ -96,11 +96,10 @@ Telegram-бот для автоматического создания обуч�
 
 ## 🏗 АРХИТЕКТУРА  
 **Многоуровневая + Clean Architecture:**  
-```mermaid
+```bash
 Handlers --> Services --> Repositories --> Models --> Database
 ```  
 - **Асинхронность** на всех уровнях (от БД до Telegram API).  
-
 ---
 
 ## 📸 СКРИНШОТЫ
@@ -115,8 +114,7 @@ Handlers --> Services --> Repositories --> Models --> Database
 ![Отчет тестирования Pitest](https://github.com/Lisica050521/Python-Contour-Numbers_bot/blob/master/assets/doker_test.jpg)
 
 ### 📊 Аналитика в 1 клик  
-```bash
-```  
+
 **Что показывает отчет:**  
 ![Пример отчета](https://github.com/Lisica050521/Python-Contour-Numbers_bot/blob/master/assets/analitika.jpg)
 
