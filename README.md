@@ -106,7 +106,7 @@ Handlers --> Services --> Repositories --> Models --> Database
 
 ![Приветственное сообщение, главное меню, меню категорий](https://github.com/Lisica050521/Python-Contour-Numbers_bot/blob/master/assets/interface2.jpg)
 
-![Пример работы бота с изображениями. Готовые изображения в галерее](https://github.com/Lisica050521/Python-Contour-Numbers_bot/blob/master/assets/interface2.jpg)
+![Пример работы бота с изображениями. Готовые изображения в галерее](https://github.com/Lisica050521/Python-Contour-Numbers_bot/blob/master/assets/interface1.jpg)
 
 ### 📊 Аналитика в 1 клик  
 
@@ -156,7 +156,6 @@ Handlers --> Services --> Repositories --> Models --> Database
 
 ---
 
-🚀 **Попробуйте моего бота:**  
-[@python_contour_numbers_bot](https://t.me/python_contour_numbers_bot)  
+🚀 **Попробуйте моего бота:** [@python_contour_numbers_bot](https://t.me/python_contour_numbers_bot)  
 
 ❤️ **Поддержать проект:** [donate.stream](https://donate.stream/donate_67fa327209b19)  
